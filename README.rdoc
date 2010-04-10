@@ -1,4 +1,7 @@
-= Authlogic Example App
+= Authlogic + OpenId Example App
+
+
+Bla Bla Bla
 
 This is an example of how to use Authlogic in a rails app. Authlogic is a clean, simple, and unobtrusive ruby authentication solution.
 
